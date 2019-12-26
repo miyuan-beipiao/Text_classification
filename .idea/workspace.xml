@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="08359ac5-80f9-4bd6-90d6-0bb29ad59f59" name="Default Changelist" comment="rnn_hinge add">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data" beforeDir="false" afterPath="$PROJECT_DIR$/data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_rnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_rnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_rnn_hinge.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_rnn_hinge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,48 +14,56 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Text_classification" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic_rnn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1804">
-              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-              <folding>
-                <element signature="e#521#541#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/basic_rnn_hinge.py">
+        <entry file="file://$PROJECT_DIR$/paper/gat/train.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="55" column="20" lean-forward="true" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+            <state relative-caret-position="367">
+              <caret line="34" column="58" lean-forward="true" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
               <folding>
-                <element signature="e#521#540#0" expanded="true" />
+                <element signature="e#0#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
+        <entry file="file://$PROJECT_DIR$/paper/gat/layers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            <state relative-caret-position="99">
+              <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/utils.py">
+        <entry file="file://$PROJECT_DIR$/paper/gat/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="56" column="30" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="30" />
+            <state relative-caret-position="198">
+              <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="46" />
               <folding>
-                <element signature="e#0#23#0" expanded="true" />
+                <element signature="e#0#12#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -63,9 +74,48 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>it's a perfect</find>
+      <find>great food, good size menu,</find>
+      <find>he atmosphere is unheralded</find>
+      <find>the lava cake dessert was incredible</find>
+      <find>raucous</find>
+      <find>it is the type of place to run into ol</find>
+      <find>we were treated with attitude</find>
+      <find />
+      <find>support</find>
+      <find>logging</find>
+      <find>flow</find>
+      <find>placeholders</find>
+      <find>outs</find>
+      <find>l2_loss</find>
+      <find>vars</find>
+      <find>sess</find>
+      <find>hidden1</find>
+      <find>num_features_nonzero</find>
+      <find>nx</find>
+      <find>tolil</find>
+      <find>act</find>
+      <find>l2</find>
+      <find>argmax</find>
+      <find>output.shape</find>
+      <find>sparse_mx_to_torch_sparse_tensor</find>
+      <find>code</find>
+      <find>forward</find>
+      <find>print</find>
+      <find>idx_features_labels</find>
+      <find>graph_matrix</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Rebase.Settings">
     <option name="ONTO" value="refs/remotes/origin/master" />
@@ -73,24 +123,80 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="3d52088f-973c-4a92-8261-2ff90a454ead" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/utils.py" />
-        <option value="$PROJECT_DIR$/basic_rnn.py" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/basic_rnn_hinge.py" />
+        <option value="$PROJECT_DIR$/sc/code/transformer_official.py" />
+        <option value="$PROJECT_DIR$/paper/transformer/code/transformer_improve.py" />
+        <option value="$PROJECT_DIR$/translation/code/prepro.py" />
+        <option value="$PROJECT_DIR$/translation/code/hyperparams.py" />
+        <option value="$PROJECT_DIR$/translation/code/data_load.py" />
+        <option value="$PROJECT_DIR$/translation/code/train.py" />
+        <option value="$PROJECT_DIR$/translation/code/modules.py" />
+        <option value="$PROJECT_DIR$/paper/elmo/code/1.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/paper/gcn/code/utils.py" />
+        <option value="$PROJECT_DIR$/paper/gcn/code/models.py" />
+        <option value="$PROJECT_DIR$/paper/gcn/code/layers.py" />
+        <option value="$PROJECT_DIR$/paper/gcn/code/__init__.py" />
+        <option value="$PROJECT_DIR$/paper/gcn/code/train.py" />
+        <option value="$PROJECT_DIR$/paper/gcn/torch/code/train.py" />
+        <option value="$PROJECT_DIR$/paper/gcn/pytorch/code/models.py" />
+        <option value="$PROJECT_DIR$/paper/gcn/pytorch/code/__init__.py" />
+        <option value="$PROJECT_DIR$/paper/gcn/pytorch/code/train.py" />
+        <option value="$PROJECT_DIR$/paper/gcn/pytorch/improve/layers.py" />
+        <option value="$PROJECT_DIR$/paper/gcn/pytorch/code/layers.py" />
+        <option value="$PROJECT_DIR$/paper/gcn/tonsorflow/code/__init__.py" />
+        <option value="$PROJECT_DIR$/paper/gcn/tonsorflow/code/train.py" />
+        <option value="$PROJECT_DIR$/paper/gcn/tonsorflow/improve/metrics.py" />
+        <option value="$PROJECT_DIR$/paper/gcn/tonsorflow/improve/inits.py" />
+        <option value="$PROJECT_DIR$/paper/gcn/tonsorflow/improve/__init__.py" />
+        <option value="$PROJECT_DIR$/paper/gcn/tonsorflow/improve/utils.py" />
+        <option value="$PROJECT_DIR$/paper/gcn/tonsorflow/improve/train.py" />
+        <option value="$PROJECT_DIR$/paper/gcn/tonsorflow/improve/layers.py" />
+        <option value="$PROJECT_DIR$/paper/gcn/tonsorflow/improve/models.py" />
+        <option value="$PROJECT_DIR$/test/test.py" />
+        <option value="$PROJECT_DIR$/paper/gcn/pytorch/code/utils.py" />
+        <option value="$PROJECT_DIR$/paper/gcn/pytorch/improve/__init__.py" />
+        <option value="$PROJECT_DIR$/paper/gcn/pytorch/improve/train.py" />
+        <option value="$PROJECT_DIR$/paper/gcn/pytorch/improve/models.py" />
+        <option value="$PROJECT_DIR$/basic_gcn.py" />
+        <option value="$PROJECT_DIR$/paper/gcn/pytorch/improve/utils.py" />
+        <option value="$PROJECT_DIR$/paper/networkx/example1.py" />
+        <option value="$PROJECT_DIR$/paper/networkx/example.py" />
+        <option value="$PROJECT_DIR$/paper/fastgcn/metrics.py" />
+        <option value="$PROJECT_DIR$/paper/fastgcn/models.py" />
+        <option value="$PROJECT_DIR$/paper/gat/models.py" />
+        <option value="$PROJECT_DIR$/paper/gat/layers.py" />
+        <option value="$PROJECT_DIR$/paper/pygat/execute_cora.py" />
+        <option value="$PROJECT_DIR$/paper/pygat/execute_cora_sparse.py" />
+        <option value="$PROJECT_DIR$/paper/gat/visualize_graph.py" />
+        <option value="$PROJECT_DIR$/paper/gat/train.py" />
+        <option value="$PROJECT_DIR$/paper/lgcn/inits.py" />
+        <option value="$PROJECT_DIR$/paper/lgcn/main.py" />
+        <option value="$PROJECT_DIR$/paper/lgcn/layers.py" />
+        <option value="$PROJECT_DIR$/paper/lgcn/models.py" />
+        <option value="$PROJECT_DIR$/paper/lgcn/network.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="792" />
-    <option name="width" value="1135" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1619" />
+    <option name="height" value="869" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <autoscrollToSource ProjectPane="true" />
+      <sortByType ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -100,6 +206,11 @@
             <path>
               <item name="Text_classification" type="b2602c69:ProjectViewProjectNode" />
               <item name="Text_classification" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Text_classification" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Text_classification" type="462c0819:PsiDirectoryNode" />
+              <item name="paper" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -111,6 +222,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/paper/lgcn" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -119,7 +231,23 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\miyuan\PycharmProjects\Text_classification\paper\gcn\torch" />
+      <recent name="C:\Users\miyuan\PycharmProjects\Text_classification\translation" />
+      <recent name="C:\Users\miyuan\PycharmProjects\Text_classification\paper" />
+      <recent name="C:\Users\miyuan\PycharmProjects\Text_classification\gcn\test" />
+      <recent name="C:\Users\miyuan\PycharmProjects\Text_classification\asc\code\util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\miyuan\PycharmProjects\Text_classification\paper\lgcn" />
+      <recent name="C:\Users\miyuan\PycharmProjects\Text_classification\paper\pygat" />
+      <recent name="C:\Users\miyuan\PycharmProjects\Text_classification\paper\gat" />
+      <recent name="C:\Users\miyuan\PycharmProjects\Text_classification\paper\fastgcn" />
+      <recent name="C:\Users\miyuan\PycharmProjects\Text_classification\paper\gcn\tonsorflow\lgcn" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -133,8 +261,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.basic_rnn_hinge">
-    <configuration name="basic_rnn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Text_classification" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,12 +270,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/paper/networkx" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_rnn.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/paper/networkx/example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +284,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="basic_rnn_hinge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Text_classification" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,12 +292,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/paper/lgcn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_rnn_hinge.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/paper/lgcn/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +306,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Text_classification" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,12 +314,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/paper/gcn/pytorch/improve" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/paper/gcn/pytorch/improve/models.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,16 +328,92 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="train (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Text_classification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/paper/gat" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/paper/gat/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Text_classification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\miyuan\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/paper/gcn/pytorch/improve" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/paper/gcn/pytorch/improve/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Text_classification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/paper/gcn/pytorch/improve" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/paper/gcn/pytorch/improve/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.train" />
+      <item itemvalue="Python.example" />
+      <item itemvalue="Python.models" />
+      <item itemvalue="Python.train (1)" />
+      <item itemvalue="Python.utils (1)" />
+      <item itemvalue="Python.main" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.basic_rnn_hinge" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.basic_rnn" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.train (1)" />
+        <item itemvalue="Python.example" />
+        <item itemvalue="Python.utils (1)" />
+        <item itemvalue="Python.models" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\miyuan\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -220,7 +424,99 @@
       <updated>1562724104931</updated>
       <workItem from="1562724106400" duration="13465000" />
       <workItem from="1562803446032" duration="5518000" />
-      <workItem from="1563325872507" duration="6892000" />
+      <workItem from="1563325872507" duration="7772000" />
+      <workItem from="1564184728925" duration="609000" />
+      <workItem from="1564361909526" duration="1227000" />
+      <workItem from="1564534486403" duration="992000" />
+      <workItem from="1564624933871" duration="8009000" />
+      <workItem from="1564704770891" duration="9021000" />
+      <workItem from="1564799443688" duration="598000" />
+      <workItem from="1564876650315" duration="1227000" />
+      <workItem from="1565074321356" duration="958000" />
+      <workItem from="1565080671308" duration="56000" />
+      <workItem from="1565080752626" duration="66000" />
+      <workItem from="1565094381045" duration="12000" />
+      <workItem from="1567724826105" duration="10204000" />
+      <workItem from="1567752434326" duration="1770000" />
+      <workItem from="1567757050279" duration="1589000" />
+      <workItem from="1567814036320" duration="8314000" />
+      <workItem from="1567859736609" duration="676000" />
+      <workItem from="1567909965868" duration="4555000" />
+      <workItem from="1567986728791" duration="13671000" />
+      <workItem from="1568186009697" duration="596000" />
+      <workItem from="1568269704305" duration="1798000" />
+      <workItem from="1568591522680" duration="5803000" />
+      <workItem from="1568598331926" duration="1723000" />
+      <workItem from="1568603920522" duration="1950000" />
+      <workItem from="1568610849163" duration="1882000" />
+      <workItem from="1568677007311" duration="624000" />
+      <workItem from="1568815519097" duration="9000" />
+      <workItem from="1568851131817" duration="8634000" />
+      <workItem from="1568874228044" duration="596000" />
+      <workItem from="1569024714986" duration="20367000" />
+      <workItem from="1569197960671" duration="612000" />
+      <workItem from="1569288330413" duration="6897000" />
+      <workItem from="1569459020739" duration="9345000" />
+      <workItem from="1569546382169" duration="10397000" />
+      <workItem from="1569581003574" duration="3809000" />
+      <workItem from="1569632444672" duration="6068000" />
+      <workItem from="1570100472009" duration="2144000" />
+      <workItem from="1570410575886" duration="10782000" />
+      <workItem from="1570579164848" duration="6068000" />
+      <workItem from="1570751607078" duration="3073000" />
+      <workItem from="1571384431008" duration="2780000" />
+      <workItem from="1571615450811" duration="596000" />
+      <workItem from="1571886478098" duration="639000" />
+      <workItem from="1572180379421" duration="771000" />
+      <workItem from="1572234001954" duration="961000" />
+      <workItem from="1572315154440" duration="5236000" />
+      <workItem from="1572400451497" duration="4882000" />
+      <workItem from="1572480987300" duration="3526000" />
+      <workItem from="1572576367917" duration="2436000" />
+      <workItem from="1572592848437" duration="1649000" />
+      <workItem from="1572769093643" duration="10880000" />
+      <workItem from="1572838432540" duration="615000" />
+      <workItem from="1573170744696" duration="1631000" />
+      <workItem from="1573345818754" duration="6819000" />
+      <workItem from="1573699879717" duration="620000" />
+      <workItem from="1573986596899" duration="605000" />
+      <workItem from="1573990079129" duration="38000" />
+      <workItem from="1573991750411" duration="31000" />
+      <workItem from="1573992240545" duration="15670000" />
+      <workItem from="1574143044614" duration="1508000" />
+      <workItem from="1574151399006" duration="9066000" />
+      <workItem from="1574169766498" duration="25982000" />
+      <workItem from="1574388517342" duration="1195000" />
+      <workItem from="1574601853104" duration="650000" />
+      <workItem from="1574602591453" duration="37000" />
+      <workItem from="1574602638553" duration="28836000" />
+      <workItem from="1574763361256" duration="1232000" />
+      <workItem from="1574824257529" duration="683000" />
+      <workItem from="1574924838011" duration="2072000" />
+      <workItem from="1574998273643" duration="3854000" />
+      <workItem from="1575078493495" duration="60000" />
+      <workItem from="1575167174861" duration="4449000" />
+      <workItem from="1575338674557" duration="659000" />
+      <workItem from="1575508062709" duration="6652000" />
+      <workItem from="1575851722333" duration="4959000" />
+      <workItem from="1575934817146" duration="6699000" />
+      <workItem from="1575961084517" duration="1271000" />
+      <workItem from="1575966305821" duration="1196000" />
+      <workItem from="1576021596258" duration="1412000" />
+      <workItem from="1576069960753" duration="1421000" />
+      <workItem from="1576108413035" duration="1003000" />
+      <workItem from="1576118230175" duration="342000" />
+      <workItem from="1576119026437" duration="617000" />
+      <workItem from="1576196534963" duration="606000" />
+      <workItem from="1576204676644" duration="831000" />
+      <workItem from="1576462491803" duration="599000" />
+      <workItem from="1576488749031" duration="598000" />
+      <workItem from="1576567390729" duration="1313000" />
+      <workItem from="1576630989054" duration="664000" />
+      <workItem from="1576714707779" duration="11913000" />
+      <workItem from="1577069989821" duration="723000" />
+      <workItem from="1577071311726" duration="2481000" />
+      <workItem from="1577323819580" duration="1423000" />
     </task>
     <task id="LOCAL-00001" summary="rnn_hinge add">
       <created>1563331077840</created>
@@ -236,38 +532,86 @@
       <option name="project" value="LOCAL" />
       <updated>1563331400774</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="rnn_hinge add">
+      <created>1563333089304</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563333089304</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_train_py - 2019.11.19 at 16h 09m 20s.xml">
+      <configuration name="pytest in train.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_train_py - 2019.11.19 at 16h 14m 34s.xml">
+      <configuration name="pytest in train.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25875000" />
+    <option name="totallyTimeSpent" value="380877000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="634" y="0" width="908" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.23411764" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988864" visible="true" weight="0.23525469" />
+      <window_info id="Favorites" order="1" sideWeight="0.50208336" weight="0.22654155" />
+      <window_info id="Structure" order="2" sideWeight="0.49791667" weight="0.22654155" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5011765" side_tool="true" weight="0.3249258" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3240469" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5011765" side_tool="true" weight="0.3240469" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32937685" />
-      <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" id="Python Console" order="4" weight="0.32941177" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" sideWeight="0.49882352" visible="true" weight="0.3249258" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32991204" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49882352" weight="0.2788104" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.398827" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.4172767" />
+      <window_info active="true" anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.32991204" />
+      <window_info anchor="right" id="Database" order="0" weight="0.3297587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="SciView" order="2" weight="0.3297587" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988864" visible="true" weight="0.18689321" />
+      <window_info id="Favorites" order="1" sideWeight="0.50208336" weight="0.22654155" />
+      <window_info id="Structure" order="2" sideWeight="0.49791667" weight="0.22654155" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3240469" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5011765" side_tool="true" weight="0.3240469" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.32937685" />
+      <window_info anchor="bottom" id="Python Console" order="4" weight="0.32941177" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32991204" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49882352" weight="0.52492666" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.398827" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.4172767" />
+      <window_info active="true" anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.32991204" />
+      <window_info anchor="right" id="Database" order="0" weight="0.3297587" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="2" weight="0.3297587" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -287,66 +631,500 @@
     <MESSAGE value="rnn_hinge add" />
     <option name="LAST_COMMIT_MESSAGE" value="rnn_hinge add" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://F:/Github代码/NLP-Models-Tensorflow-master/NLP-Models-Tensorflow-master/text-classification/26.multihead-attention.ipynb</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="adj.shape" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Text_classification$basic_rnn_hinge.coverage" NAME="basic_rnn_hinge Coverage Results" MODIFIED="1563333021184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Text_classification$test.coverage" NAME="test Coverage Results" MODIFIED="1563330744824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Text_classification$basic_rnn.coverage" NAME="basic_rnn Coverage Results" MODIFIED="1562749507171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$basic_rnn_hinge.coverage" NAME="basic_rnn_hinge Coverage Results" MODIFIED="1564708438089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$lstm_seq2seq.coverage" NAME="lstm_seq2seq Coverage Results" MODIFIED="1569072201149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$pytest_in_train_py.coverage" NAME="pytest in train.py Coverage Results" MODIFIED="1574151271937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paper/gcn/pytorch/code" />
+    <SUITE FILE_PATH="coverage/Text_classification$basic_rnn_bidirectional.coverage" NAME="basic_rnn_bidirectional Coverage Results" MODIFIED="1564714462472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$models.coverage" NAME="models Coverage Results" MODIFIED="1574750979695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paper/gcn/pytorch/improve" />
+    <SUITE FILE_PATH="coverage/Text_classification$train.coverage" NAME="train Coverage Results" MODIFIED="1575857864668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paper/gcn/pytorch/improve" />
+    <SUITE FILE_PATH="coverage/Text_classification$gru_rnn_bidirectional_huber.coverage" NAME="gru_rnn_bidirectional_huber Coverage Results" MODIFIED="1567841843216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$xml2txt.coverage" NAME="xml2txt Coverage Results" MODIFIED="1569466582367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/asc/code/extract" />
+    <SUITE FILE_PATH="coverage/Text_classification$prepro.coverage" NAME="prepro Coverage Results" MODIFIED="1572771583936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/translation/code" />
+    <SUITE FILE_PATH="coverage/Text_classification$transformor_improve.coverage" NAME="transformor_improve Coverage Results" MODIFIED="1572337074744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sc/code" />
+    <SUITE FILE_PATH="coverage/Text_classification$main.coverage" NAME="main Coverage Results" MODIFIED="1576738441213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paper/lgcn" />
+    <SUITE FILE_PATH="coverage/Text_classification$multihead_attention.coverage" NAME="multihead_attention Coverage Results" MODIFIED="1569027383106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$lstm_rnn_bidirectional_huber.coverage" NAME="lstm_rnn_bidirectional_huber Coverage Results" MODIFIED="1567839751128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$test.coverage" NAME="test Coverage Results" MODIFIED="1574648547671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/Text_classification$lstm_rnn_attention.coverage" NAME="lstm_rnn_attention Coverage Results" MODIFIED="1568010759407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$lstm_rnn_bidirectional.coverage" NAME="lstm_rnn_bidirectional Coverage Results" MODIFIED="1567839502941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$basic_rnn_bidirectional_huber.coverage" NAME="basic_rnn_bidirectional_huber Coverage Results" MODIFIED="1564714869229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$lstm_seq2seq_luong.coverage" NAME="lstm_seq2seq_luong Coverage Results" MODIFIED="1569554451677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$basic_rnn.coverage" NAME="basic_rnn Coverage Results" MODIFIED="1567814502735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$lstm_seq2seq_highway.coverage" NAME="lstm_seq2seq_highway Coverage Results" MODIFIED="1570500036077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$only_attention.coverage" NAME="only_attention Coverage Results" MODIFIED="1568858943051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$xml2txt__1_.coverage" NAME="xml2txt (1) Coverage Results" MODIFIED="1569467825497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/asc/data" />
+    <SUITE FILE_PATH="coverage/Text_classification$lstm_seq2seq_beam.coverage" NAME="lstm_seq2seq_beam Coverage Results" MODIFIED="1569581520335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$lstm_cnn_rnn_highway.coverage" NAME="lstm_cnn_rnn_highway Coverage Results" MODIFIED="1567997827919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$gru_rnn_bidirectional_hinge.coverage" NAME="gru_rnn_bidirectional_hinge Coverage Results" MODIFIED="1567841780525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$lstm.coverage" NAME="lstm Coverage Results" MODIFIED="1569548028945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/asc/code/practice" />
+    <SUITE FILE_PATH="coverage/Text_classification$example_1.coverage" NAME="example_1 Coverage Results" MODIFIED="1571467550600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gcn" />
+    <SUITE FILE_PATH="coverage/Text_classification$basic_rnn_bidirectional_hinge.coverage" NAME="basic_rnn_bidirectional_hinge Coverage Results" MODIFIED="1564714622446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$gru_rnn.coverage" NAME="gru_rnn Coverage Results" MODIFIED="1567841135842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$kmax_cnn.coverage" NAME="kmax_cnn Coverage Results" MODIFIED="1567997623834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$dilate_rnn_lstm.coverage" NAME="dilate_rnn_lstm Coverage Results" MODIFIED="1568856453898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$lstm_seq2seq_bahdanau.coverage" NAME="lstm_seq2seq_bahdanau Coverage Results" MODIFIED="1569555819292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$utils.coverage" NAME="utils Coverage Results" MODIFIED="1574647355578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paper/gcn/pytorch/code" />
+    <SUITE FILE_PATH="coverage/Text_classification$basic_rnn_huber.coverage" NAME="basic_rnn_huber Coverage Results" MODIFIED="1564709201235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$example.coverage" NAME="example Coverage Results" MODIFIED="1575860826903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paper/networkx" />
+    <SUITE FILE_PATH="coverage/Text_classification$lstm_rnn_bidirectional_hinge.coverage" NAME="lstm_rnn_bidirectional_hinge Coverage Results" MODIFIED="1567840724156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$lstm_birenn_max_avg.coverage" NAME="lstm_birenn_max_avg Coverage Results" MODIFIED="1570501227812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$lstm_rnn_dropout_l2.coverage" NAME="lstm_rnn_dropout_l2 Coverage Results" MODIFIED="1567840867492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$utils__1_.coverage" NAME="utils (1) Coverage Results" MODIFIED="1575171037790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paper/gcn/pytorch/improve" />
+    <SUITE FILE_PATH="coverage/Text_classification$lstm_rnn.coverage" NAME="lstm_rnn Coverage Results" MODIFIED="1567997589953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$lstm_cnn_rnn.coverage" NAME="lstm_cnn_rnn Coverage Results" MODIFIED="1567842230522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$lstm_han.coverage" NAME="lstm_han Coverage Results" MODIFIED="1570499648081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$example_1__1_.coverage" NAME="example_1 (1) Coverage Results" MODIFIED="1573381835235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paper/gcn/test" />
+    <SUITE FILE_PATH="coverage/Text_classification$train__1_.coverage" NAME="train (1) Coverage Results" MODIFIED="1575947893411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/paper/gat" />
+    <SUITE FILE_PATH="coverage/Text_classification$gru_rnn_bidirectonal.coverage" NAME="gru_rnn_bidirectonal Coverage Results" MODIFIED="1567841680045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$convlstm.coverage" NAME="convlstm Coverage Results" MODIFIED="1569655805374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$gru_rnn_huber.coverage" NAME="gru_rnn_huber Coverage Results" MODIFIED="1567841251979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Text_classification$transformer_xl.coverage" NAME="transformer_xl Coverage Results" MODIFIED="1570498013553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>adj.shape</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/tensorflow/python/client/session.py">
+    <entry file="file://$PROJECT_DIR$/paper/gcn/tonsorflow/lgcn/batch_utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="1107" column="11" selection-start-line="1107" selection-start-column="11" selection-end-line="1107" selection-end-column="11" />
+        <state relative-caret-position="274">
+          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/sklearn/datasets/base.py">
+    <entry file="file://$PROJECT_DIR$/paper/gcn/tonsorflow/lgcn/inits.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="192" selection-start-line="192" selection-end-line="192" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_rnn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1804">
-          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding>
-            <element signature="e#521#541#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/tensorflow/python/ops/math_ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="82" column="14" selection-start-line="82" selection-end-line="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="56" column="30" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="30" />
+        <state relative-caret-position="22">
+          <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/paper/gcn/tonsorflow/lgcn/layers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        <state relative-caret-position="142">
+          <caret line="202" column="8" selection-start-line="202" selection-start-column="8" selection-end-line="202" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic_rnn_hinge.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="55" column="20" lean-forward="true" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38654">
+          <caret line="1757" selection-start-line="1757" selection-end-line="1757" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/gcn/tonsorflow/lgcn/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
-            <element signature="e#521#540#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/networkx/youxiangtu.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/networkx/wuxiangtu.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/networkx/wuxiangtu_weight.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/networkx/drawing/nx_pylab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/gcn/pytorch/improve/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2618">
+          <caret line="154" selection-start-line="154" selection-end-line="154" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#3887#4388#0" />
+            <element signature="e#4478#5294#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/gcn/pytorch/improve/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="75" column="25" selection-start-line="75" selection-start-column="25" selection-end-line="75" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#157#702#0" />
+            <element signature="e#731#1683#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/gcn/pytorch/improve/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="59" column="48" selection-start-line="59" selection-start-column="48" selection-end-line="59" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/networkx/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="114" column="46" selection-start-line="114" selection-start-column="46" selection-end-line="114" selection-end-column="46" />
+          <folding>
+            <element signature="e#522#543#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/fastgcn/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/gcn/pytorch/improve/layers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/fastgcn/inits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#92#240#0" />
+            <element signature="e#277#508#0" />
+            <element signature="e#544#651#0" />
+            <element signature="e#686#791#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/fastgcn/metrics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#86#337#0" />
+            <element signature="e#386#691#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/fastgcn/data/ind.ohsumed.ty">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/fastgcn/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="136" column="22" selection-start-line="136" selection-start-column="4" selection-end-line="136" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/fastgcn/pubmed_inductive_appr2layers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/fastgcn/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2539">
+          <caret line="180" lean-forward="true" selection-start-line="180" selection-end-line="180" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/fastgcn/layers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/fastgcn/lanczos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/gat/data/cora/README">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/torch/nn/modules/module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="175" column="8" selection-start-line="175" selection-start-column="8" selection-end-line="175" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/pygat/data/ind.cora.x">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/pygat/models/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/pygat/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-751">
+            <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/pygat/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/pygat/execute_cora.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3332">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/pygat/execute_cora_sparse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3970">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/pygat/pre_trained/cora/checkpoint">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/pygat/models/base_gattn.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/gat/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/gat/visualize_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/gat/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/lgcn/data/ind.cora.x">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/lgcn/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="220">
+            <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="92" selection-start-line="13" selection-start-column="92" selection-end-line="13" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/lgcn/inits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#92#240#0" />
+            <element signature="e#908#1139#0" />
+            <element signature="e#544#651#0" />
+            <element signature="e#686#791#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/lgcn/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/lgcn/batch_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/lgcn/layers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/lgcn/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/lgcn/network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="31" column="33" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/lgcn/ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/lgcn/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="49" column="47" lean-forward="true" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
+          <folding>
+            <element signature="e#836#861#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/gat/layers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/gat/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paper/gat/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="34" column="58" lean-forward="true" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>

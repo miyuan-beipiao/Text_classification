@@ -34,9 +34,9 @@ train_X,test_X,train_Y,test_Y,train_onehot,test_onehot=train_test_split(trainset
 concat=' '.join(trainset.data).split()
 vocabulary_size=len(list(set(concat)))
 data,count,dictionary,rev_dictionary=build_dataset(concat,vocabulary_size)
-print('vocab from size:%d'%(vocabulary_size))
-print('Most common words:',count[4:10])
-print('Sample data',data[:10],[rev_dictionary[i] for i in data[:10]])
+# print('vocab from size:%d'%(vocabulary_size))
+# print('Most common words:',count[4:10])
+# print('Sample data',data[:10],[rev_dictionary[i] for i in data[:10]])
 
 GO=dictionary['GO']
 PAD=dictionary['PAD']
@@ -56,8 +56,12 @@ class Model:
         outputs,_=tf.nn.dynamic_rnn(run_cells,encoder_embeded,dtype=tf.float32)
         W=tf.get_variable('W',shape=(size_layer,dimension_output),initializer=tf.orthogonal_initializer())
         b=tf.get_variable('b',shape=(dimension_output),initializer=tf.zeros_initializer())
+        # matmul表示矩阵相乘
+        # logits表示一种未归一化的log概率
         self.logits=tf.matmul(outputs[:,-1],W)+b
-        self.cost=tf.losses.hinge_loss(logits=self.logits,label=self.Y)
+        # 损失函数选用hinge_loss
+        self.cost=tf.losses.hinge_loss(logits=self.logits,labels=self.Y)
+        # 优化选择Adam
         self.optimizer=tf.train.AdamOptimizer(learning_rate=learning_rate).minimize(self.cost)
         correct_pred=tf.equal(tf.argmax(self.logits,1),tf.argmax(self.Y,1))
         self.accuracy=tf.reduce_mean(tf.cast(correct_pred,tf.float32))
@@ -84,7 +88,7 @@ while True:
     train_acc,train_loss,test_acc,test_loss=0,0,0,0
     for i in range(0,(len(train_X)//batch_size)*batch_size,batch_size):
         batch_x=str_idx(train_X[i:i+batch_size],dictionary,maxlen)
-        acc,loss=sess.run([model.accuracy,model.cost],feed_dict={model.X:batch_x,model.Y:test_onehot[i:i+batch_size]})
+        acc,loss=sess.run([model.accuracy,model.cost],feed_dict={model.X:batch_x,model.Y:train_onehot[i:i+batch_size]})
         train_loss+=loss
         train_acc+=acc
 
@@ -103,5 +107,10 @@ while True:
     print('time taken:',time.time()-lasttime)
     print('epoch:%d,training loss:%f,training acc:%f,valid loss:%f,valid acc:%f\n'%(EPOCH,train_loss,train_acc,test_loss,test_acc))
     EPOCH+=1
-logits=sess_run(model.logits,feed_dict={model.X:str_idx(test_X,dictionary,maxlen)})
-print(metrics.classification_report(test_Y,np.argmax(logits,1),target_names==trainset.target_names))
+logits=sess.run(model.logits,feed_dict={model.X:str_idx(test_X,dictionary,maxlen)})
+# np.argmax(,axis)取出a中元素最大值所对应的索引,二维默认axis为0 对应列
+print(metrics.classification_report(test_Y,np.argmax(logits,1),target_names=trainset.target_names))
+
+'''
+hinge_loss(y)=max(0,1-y·y^)
+'''

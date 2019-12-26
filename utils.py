@@ -57,3 +57,14 @@ def str_idx(corpus, dic, maxlen, UNK = 3):
         for no, k in enumerate(corpus[i].split()[:maxlen][::-1]):
             X[i, -1 - no] = dic.get(k, UNK)
     return X
+
+'''
+ print(str_idx(['i am miyuan i am','am', 'miyuan','UNK','UNK','i','am'], {'i':1,'am':2, 'miyuan':4}, 5, UNK = 3))
+[[1. 2. 4. 1. 2.]
+ [0. 0. 0. 0. 2.]
+ [0. 0. 0. 0. 4.]
+ [0. 0. 0. 0. 3.]
+ [0. 0. 0. 0. 3.]
+ [0. 0. 0. 0. 1.]
+ [0. 0. 0. 0. 2.]]
+'''
